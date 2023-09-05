@@ -1,0 +1,6 @@
+framework module Pods_CXAPIKit_Tests {
+  umbrella header "Pods-CXAPIKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

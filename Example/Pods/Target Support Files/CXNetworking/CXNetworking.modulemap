@@ -1,0 +1,6 @@
+framework module CXNetworking {
+  umbrella header "CXNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}

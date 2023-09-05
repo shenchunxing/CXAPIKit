@@ -1,0 +1,6 @@
+framework module CXAPIKit {
+  umbrella header "CXAPIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

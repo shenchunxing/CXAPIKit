@@ -1,4 +1,5 @@
 use_frameworks!
+source 'https://github.com/CocoaPods/Specs.git'
 
 platform :ios, '10.0'
 
@@ -11,3 +12,6 @@ target 'CXAPIKit_Example' do
     
   end
 end
+
+
+pod 'CXNetworking', :git=> 'git@github.com:shenchunxing/CXNetworking.git'
